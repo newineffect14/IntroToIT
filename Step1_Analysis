@@ -1,0 +1,4 @@
+A local university plans to implement a smart parking barrier system at its main gate, designed to automatically open the barrier for registered staff and students, Count the number of cars in the parking lot, Display the number of available spots, and trigger an alert if someone tries to enter when the parking is full.  
+
+ 
+The objective is to simulate and implement this system's logic using the Integrated Problem-solving Process 
