@@ -1,0 +1,18 @@
+Start  
+⬇️  
+Read Vehicle ID  
+⬇️  
+Read Parking Count + Registration Details  
+⬇️  
+Verify Registration and Parking Availability  
+⬇️  
+Is the vehicle registered?  
+➡️ No → Trigger alert → Keep gate closed → Message driver → ⬇️ → End  
+➡️ Yes → Continue ⬇️  
+Is the parking full?  
+➡️ Yes → Trigger alert → Keep gate closed → Message driver → ⬇️ → End  
+➡️ No → Continue ⬇️  
+Store Updated Parking Count + Registration  
+⬇️ Display Parking Count  
+⬇️ Open Gate  
+⬇️ End 
