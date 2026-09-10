@@ -25,7 +25,7 @@
             <mxPoint x="390" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B3YAGqBLyfZjGkfLK63z-7" connectable="0" parent="B3YAGqBLyfZjGkfLK63z-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Timecards, sales orders" vertex="1">
+        <mxCell id="B3YAGqBLyfZjGkfLK63z-7" connectable="0" parent="B3YAGqBLyfZjGkfLK63z-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Timecards, sales orders&lt;div&gt;change request&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.1489" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
