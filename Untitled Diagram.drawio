@@ -16,7 +16,7 @@
         <mxCell id="RSiyQof7msgVB0IWh8Hn-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Timecard, sales order" vertex="1">
           <mxGeometry height="30" width="60" x="300" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="RSiyQof7msgVB0IWh8Hn-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="1. Record sales and time data" vertex="1">
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="P1. Record sales and time data" vertex="1">
           <mxGeometry height="142" width="142" x="414" y="28" as="geometry" />
         </mxCell>
         <mxCell id="RSiyQof7msgVB0IWh8Hn-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bank" vertex="1">
@@ -28,10 +28,10 @@
         <mxCell id="RSiyQof7msgVB0IWh8Hn-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Payroll staff" vertex="1">
           <mxGeometry height="60" width="120" x="880" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="RSiyQof7msgVB0IWh8Hn-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="2. Calculate pay" vertex="1">
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="P2. Run Payroll" vertex="1">
           <mxGeometry height="80" width="80" x="390" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="RSiyQof7msgVB0IWh8Hn-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="3. Process Payment" vertex="1">
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="P3. Confirm Payment" vertex="1">
           <mxGeometry height="80" width="80" x="402" y="460" as="geometry" />
         </mxCell>
         <mxCell id="RSiyQof7msgVB0IWh8Hn-10" edge="1" parent="1" source="RSiyQof7msgVB0IWh8Hn-8" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.037;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" target="RSiyQof7msgVB0IWh8Hn-5" value="">
@@ -54,10 +54,10 @@
             <mxPoint y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RSiyQof7msgVB0IWh8Hn-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="4. Manage employee details" vertex="1">
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="P4. Manage employee details" vertex="1">
           <mxGeometry height="80" width="80" x="650" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="RSiyQof7msgVB0IWh8Hn-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="5. Generate Payslip" vertex="1">
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="P5. Generate Payslip" vertex="1">
           <mxGeometry height="80" width="80" x="402" y="210" as="geometry" />
         </mxCell>
         <mxCell id="RSiyQof7msgVB0IWh8Hn-17" edge="1" parent="1" source="RSiyQof7msgVB0IWh8Hn-15" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.294;exitDx=0;exitDy=0;exitPerimeter=0;" target="RSiyQof7msgVB0IWh8Hn-1" value="">
@@ -79,7 +79,7 @@
           <mxGeometry height="30" width="90" x="760" y="70" as="geometry" />
         </mxCell>
         <mxCell id="3Xl23az66XiMrxzUItdA-4" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="D2: Timecards" vertex="1">
-          <mxGeometry height="30" width="100" x="610" y="220" as="geometry" />
+          <mxGeometry height="30" width="100" x="650" y="230" as="geometry" />
         </mxCell>
         <mxCell id="3Xl23az66XiMrxzUItdA-5" edge="1" parent="1" source="RSiyQof7msgVB0IWh8Hn-4" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.007;exitY=0.651;exitDx=0;exitDy=0;exitPerimeter=0;" target="RSiyQof7msgVB0IWh8Hn-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -89,6 +89,27 @@
         </mxCell>
         <mxCell id="3Xl23az66XiMrxzUItdA-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="recorded confirmation" vertex="1">
           <mxGeometry height="30" width="60" x="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3Xl23az66XiMrxzUItdA-7" edge="1" parent="1" source="RSiyQof7msgVB0IWh8Hn-4" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.958;exitY=0.775;exitDx=0;exitDy=0;exitPerimeter=0;" target="3Xl23az66XiMrxzUItdA-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="180" as="sourcePoint" />
+            <mxPoint x="600" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Xl23az66XiMrxzUItdA-8" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="D3: Sales Order record" vertex="1">
+          <mxGeometry height="30" width="100" x="640" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3Xl23az66XiMrxzUItdA-9" edge="1" parent="1" source="RSiyQof7msgVB0IWh8Hn-4" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3Xl23az66XiMrxzUItdA-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="570" y="240" as="sourcePoint" />
+            <mxPoint x="620" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Xl23az66XiMrxzUItdA-10" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="D1: Employee" vertex="1">
+          <mxGeometry height="30" width="100" x="650" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="3Xl23az66XiMrxzUItdA-11" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="D4: Payslips" vertex="1">
+          <mxGeometry height="30" width="100" x="650" y="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
