@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="CS9MuSxO_qrjvGeR2osJ">
+    <mxGraphModel dx="964" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Employee" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="100" as="sourcePoint" />
+            <mxPoint x="390" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Timecard, sales order" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="1. Record sales and time data" vertex="1">
+          <mxGeometry height="104" width="104" x="390" y="48" as="geometry" />
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bank" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Superfund" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Payroll staff" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="2. Calculate pay" vertex="1">
+          <mxGeometry height="80" width="80" x="390" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="3. Process Payment" vertex="1">
+          <mxGeometry height="80" width="80" x="402" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-10" edge="1" parent="1" source="RSiyQof7msgVB0IWh8Hn-8" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.037;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" target="RSiyQof7msgVB0IWh8Hn-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="370" as="sourcePoint" />
+            <mxPoint x="370" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Direct Deposit" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-12" edge="1" parent="1" source="RSiyQof7msgVB0IWh8Hn-9" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="RSiyQof7msgVB0IWh8Hn-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="480" as="sourcePoint" />
+            <mxPoint x="400" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-13" connectable="0" parent="RSiyQof7msgVB0IWh8Hn-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Super contribution" vertex="1">
+          <mxGeometry relative="1" x="0.0698" y="-6" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="4. Manage employee details" vertex="1">
+          <mxGeometry height="80" width="80" x="680" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="5. Generate Payslip" vertex="1">
+          <mxGeometry height="80" width="80" x="670" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Employee" vertex="1">
+          <mxGeometry height="60" width="120" x="890" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RSiyQof7msgVB0IWh8Hn-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="760" y="360" as="sourcePoint" />
+            <mxPoint x="830" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSiyQof7msgVB0IWh8Hn-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Payslip (email)" vertex="1">
+          <mxGeometry height="30" width="60" x="790" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
