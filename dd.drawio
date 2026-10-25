@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="kr0QuMHT9kQsLQOBCvpd">
+    <mxGraphModel dx="964" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h3jhimJVUnvpTOthfN2b-1" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="h3jhimJVUnvpTOthfN2b-2" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="h3jhimJVUnvpTOthfN2b-3" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="h3jhimJVUnvpTOthfN2b-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="employee" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3jhimJVUnvpTOthfN2b-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="payroll officier" vertex="1">
+          <mxGeometry height="30" width="60" x="384" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="h3jhimJVUnvpTOthfN2b-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="payroll system" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3jhimJVUnvpTOthfN2b-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="start payrun" vertex="1">
+          <mxGeometry height="40" width="90" x="369" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="h3jhimJVUnvpTOthfN2b-8" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="399" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="h3jhimJVUnvpTOthfN2b-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="retrieve approved hrs" vertex="1">
+          <mxGeometry height="40" width="100" x="490" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="h3jhimJVUnvpTOthfN2b-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="calculate gross pay" vertex="1">
+          <mxGeometry height="50" width="100" x="490" y="390" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
